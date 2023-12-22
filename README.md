@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- ⚡  I'm a software engineer out of Naples, Florida.
+- 🔭 I’m currently working on Dart and Flutter, Go (Golang), JavaScript, and networking.
+- 👯 I’m looking to collaborate on Flutter.
+  
 <!--
 **franklin83diaz/franklin83diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
